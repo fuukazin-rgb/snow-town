@@ -15,7 +15,7 @@ Claude Code のデスクトップアプリ用の、背景テーマです。
 Claude Code のターミナルの入力欄で：
 
 ```
-/plugin install snow-town --marketplace niche-hobby/snow-town
+/plugin install snow-town --marketplace fuukazin-rgb/snow-town
 ```
 
 聞かれたら `y` でマーケットプレイスを追加し、入れる範囲（user が先頭）を Enter で選びます。
@@ -23,10 +23,10 @@ Claude Code のターミナルの入力欄で：
 シェル（ターミナル）から入れる場合：
 
 ```
-claude plugin install snow-town --marketplace niche-hobby/snow-town
+claude plugin install snow-town --marketplace fuukazin-rgb/snow-town
 ```
 
-デスクトップアプリで `/plugin` が使えない場合は、入力欄の横の「＋」→「Plugins」→「Add marketplace」で `niche-hobby/snow-town` を追加し、「Add plugin」から入れてください。
+デスクトップアプリで `/plugin` が使えない場合は、入力欄の横の「＋」→「Plugins」→「Add marketplace」で `fuukazin-rgb/snow-town` を追加し、「Add plugin」から入れてください。
 
 ## 使い方
 
