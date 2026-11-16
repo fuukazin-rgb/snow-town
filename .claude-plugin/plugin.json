@@ -1,0 +1,1 @@
+{ "name": "snow-town", "version": "0.1.0", "description": "雪の夜の街と雪だるま。会話が進むほど雪が積もるテーマ", "types": "./types/index.d.ts" }
